@@ -38,7 +38,3 @@ Depois, acesse <http://localhost:8000> no navegador. O navegador precisa oferece
 - `index.html` — estrutura da página, interface e importmap do Three.js.
 - `style.css` — estilos da interface.
 - `script.js` — renderização 3D, controles e lógica do jogo.
-
-## Créditos
-
-A referência `@coding.stella` presente no título original do HTML foi mantida no código.
