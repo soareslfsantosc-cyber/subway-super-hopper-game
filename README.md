@@ -39,6 +39,6 @@ Depois, acesse <http://localhost:8000> no navegador. O navegador precisa oferece
 - `style.css` — estilos da interface.
 - `script.js` — renderização 3D, controles e lógica do jogo.
 
-## Licença e créditos
+## Créditos
 
-O ZIP de origem não incluiu um arquivo de licença. A licença de uso e redistribuição ainda não está especificada neste repositório. O título do HTML de origem contém a referência `@coding.stella`, preservada no código; confirme a atribuição e os direitos dos materiais de terceiros antes de redistribuir o projeto.
+A referência `@coding.stella` presente no título original do HTML foi mantida no código.
